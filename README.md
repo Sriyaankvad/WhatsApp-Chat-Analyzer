@@ -9,4 +9,4 @@
   - Make sure the export is named '_chat.txt'
  - Run the ipynb file through method of your choice (Jupyter Notebook, VS Code etc)
  
- Note: The chat in the example shown had its chat export manually modified to protect personal information etc. This program does not edit the chat export.
+ Note: The chat in the example shown had its chat export manually modified to protect personal information etc. This program does not edit the chat export, and the names of the chat members will match what the person who exported the chat has them saved as in their contacts.
